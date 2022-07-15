@@ -5,5 +5,6 @@ public class git_test {
         System.out.println("hello.txt");
         System.out.println("he;lo.txt1");
         System.out.println("he;lo.txt222");
+        System.out.println("hot-fix test");
     }
 }
